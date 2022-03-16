@@ -1,0 +1,47 @@
+{
+    "name": "campaign-project-startup",
+    "version": "1.0.0",
+    "description": "Easy and fast startup for your campaigns with gulp.",
+    "main": "Gulpfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "help": "gulp help"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MarioDuarte/campaign-project-startup.git"
+    },
+    "author": "Mario Duarte",
+    "license": "UNLICENSED",
+    "bugs": {
+        "url": "https://github.com/MarioDuarte/campaign-project-startup.git/issues"
+    },
+    "homepage": "https://github.com/MarioDuarte/campaign-project-startup.git",
+    "devDependencies": {
+        "@babel/core": "^7.17.5",
+        "@babel/preset-env": "^7.16.11",
+        "ansi-colors": "^4.1.1",
+        "babel": "^6.23.0",
+        "browser-sync": "^2.27.7",
+        "dart-sass": "^1.25.0",
+        "del": "^6.0.0",
+        "fancy-log": "^2.0.0",
+        "fs-extra": "^10.0.1",
+        "gulp": "^4.0.2",
+        "gulp-autoprefixer": "^8.0.0",
+        "gulp-babel": "^8.0.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-file-sync": "^2.1.0",
+        "gulp-if": "^3.0.0",
+        "gulp-live-server": "^0.0.31",
+        "gulp-minify": "^3.1.0",
+        "gulp-order": "^1.2.0",
+        "gulp-rename": "^2.0.0",
+        "gulp-sass": "^5.1.0",
+        "gulp-strip-css-comments": "^2.0.0",
+        "gulp-strip-debug": "^4.0.0",
+        "jshint": "^2.13.4",
+        "minimist": "^1.2.5",
+        "sass": "^1.49.9"
+    }
+}
